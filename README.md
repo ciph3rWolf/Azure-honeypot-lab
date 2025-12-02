@@ -23,7 +23,9 @@ Create Free Azure Subscription: https://azure.microsoft.com/en-us/pricing/purcha
 After your subscription is created, you can login at:
 https://portal.azure.com. 
 - From here go to the Azure dashboard, and create a resource group: (This can be thought of as a folder/container where all the components that make up this lab will go)
+- 
   <img width="976" height="152" alt="image" src="https://github.com/user-attachments/assets/820f0887-7726-4312-a0e5-0dae3f742b7e" />
+  
   <img width="574" height="857" alt="Pasted image 20251201154422" src="https://github.com/user-attachments/assets/a8036cd9-3ff9-4e9d-a156-77aadee2c60f" />
 
 
@@ -31,8 +33,11 @@ https://portal.azure.com.
 - This is fairly simple, simply, from the dashboard, click on Virtual networks, then click create, follow the prompts, review and create.
   
   <img width="778" height="155" alt="image" src="https://github.com/user-attachments/assets/037261d2-f3ff-4e8a-9517-28ed49befb2f" />
+  
   <img width="870" height="332" alt="image" src="https://github.com/user-attachments/assets/6bfc9b2a-eef3-4baf-b790-e0ba5dc87b7f" />
+  
   <img width="764" height="731" alt="Pasted image 20251201154521" src="https://github.com/user-attachments/assets/b2c58e41-380f-4540-af6d-9a757cf24c7e" />
+  
   <img width="768" height="558" alt="Pasted image 20251201154537" src="https://github.com/user-attachments/assets/233a8265-790e-4ea7-ace3-ff2c4a620859" />
 
 
